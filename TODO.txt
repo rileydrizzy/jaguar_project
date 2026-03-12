@@ -1,2 +1,7 @@
 
+TODO
+
+
 Kaggle Comp - https://www.kaggle.com/competitions/jaguar-re-id/overview
+
+data/train/train/train_0006.png
