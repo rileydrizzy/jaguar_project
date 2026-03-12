@@ -206,5 +206,15 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Misc
+# Ignore all files in the root directory except .gitkeep
+!.gitkeep   
+
+# Miscellaneous
 dev/
+.vscode
+
+# Ignore data directory that may contain large files or sensitive information
+data/
+
+# Ignore environment variable setting script that may contain sensitive information
+set_env.sh
