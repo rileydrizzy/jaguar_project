@@ -1,8 +1,9 @@
 #!/bin/bash
-# Set environment variables for Kaggle API access
+# Set environment variables for Kaggle, WanB API access
 # This script can be sourced to set the environment variable in the current shell session
 # Usage: source set_env_variables.sh
-# NOTE: Ensure that you make a copy of this script and replace the placeholder with your actual Kaggle API token before sourcing it.
+# NOTE: Ensure that you make a copy of this script and replace the placeholder with your actual APIs token before sourcing it.
 
 # Replace 'xxxxxxxxxxxxxx' with your actual Kaggle API token
 export KAGGLE_API_TOKEN=xxxxxxxxxxxxxx
+
